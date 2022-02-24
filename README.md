@@ -7,7 +7,7 @@ tags: github, open-source
 
 # Github Tutorial: Contributing to an Open Source Project
 
-This is a tutorial focused on contributing to a project on Github, specifically one within the Department of Energy Atmospheric Radation Measurment program. This tutorial will take place on two days, with both led by Max Grover:
+This is a tutorial focused on contributing to a project on Github, specifically one hosted by the Department of Energy Atmospheric Radation Measurment program. This tutorial will take place on two days, with both led by Max Grover:
 * **Windows Users: Monday, February 28 2022 at 9 AM Central Standard Time**
 * **Windows Users: Tuesday, March 01 2022 at 9 AM Central Standard Time**
 
