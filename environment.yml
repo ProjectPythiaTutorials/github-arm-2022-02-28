@@ -1,7 +1,6 @@
-name: pythia-tutorial_environment_template
+name: arm-github-tutorial-dev
 channels:
   - conda-forge
 dependencies:
   - jupyter
   - jupyterlab
-  - mamba
