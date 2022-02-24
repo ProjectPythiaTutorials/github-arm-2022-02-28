@@ -1,8 +1,9 @@
 ---
-author: [Max Grover]
-date: [2022-02-28]
-tags: [`github`, `open-source`]
+author: Max Grover
+date: 2022-02-28, 2022-03-01
+tags: github`, open-source
 ---
+
 
 # Github Tutorial: Contributing to an Open Source Project
 
