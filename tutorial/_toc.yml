@@ -2,3 +2,4 @@ format: jb-book
 root: introduction
 chapters:
 - file: forking_cloning
+- file: branching_pull_request.md
