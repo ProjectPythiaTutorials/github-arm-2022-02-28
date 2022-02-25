@@ -10,9 +10,9 @@
 | Concepts                           | Importance | Notes                        |
 | ---------------------------------- | ---------- | ---------------------------- |
 | [Intro to Github](introduction)    | Necessary  | GitHub user account required |
-| Command-line shell                 | Helpful    |                              |
+| Command-line shell                 | Helpful    | None                         |
 
-- **Time to learn**: 30 minutes
+- **Time to learn**: 15 minutes
 
 ---
 

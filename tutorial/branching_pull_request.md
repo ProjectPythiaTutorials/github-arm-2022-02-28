@@ -14,6 +14,8 @@
 | [Introduction to Github](introduction)        | Necessary   |       |
 | [Cloing and Forking a Repo](forking_cloning)  | Necessary   |       |
 
+- **Time to learn**: 30 minutes
+
 ## What is a Pull Request?
 
 A Pull Request (PR) is a formal mechanism for requesting that changes
