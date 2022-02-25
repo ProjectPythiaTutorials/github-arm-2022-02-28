@@ -1,5 +1,5 @@
 title: ARM Github Tutorial
-author: Max Grover
+author: Max Grover - Most of this Content Derived from https://projectpythia.org/
 logo: images/arm_logo.png
 execute:
   execute_notebooks: "off"
