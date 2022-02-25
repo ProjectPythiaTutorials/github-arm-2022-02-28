@@ -33,13 +33,13 @@ Be sure you have logged into GitHub at this time!
 
 Notice at the top right of the screen, there is a _Fork_ button:
 
-<img src="images/GitHub_Fork.png" alt="Fork">
+<img src="images/GitHub_Fork.jpeg" alt="Fork">
 
 ---
 
 Click on it! You should see your GitHub user id (if you administer any other GitHub organizations, you will see them as well). Click on your user id to complete the _fork_. 
 
-<img src="images/GitHub_ForkDest.png" alt="ForkDest">
+<img src="images/GitHub_ForkDest.jpeg" alt="ForkDest">
 
 ---
 
@@ -47,7 +47,7 @@ After a few seconds, your browser will be redirected to the forked repo, now res
 
 Notice that the _Fork_ button on the upper right has incremented by one, and there is also is a line relating your fork to the original repo:
 
-<img src="images/GitHub_ForkPost.png" alt="ForkPost">
+<img src="images/GitHub_ForkPost.jpeg" alt="ForkPost">
 
 You now have a copy (essentially a clone) of the forked repository, which is now owned by you.
 
