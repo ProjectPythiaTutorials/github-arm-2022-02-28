@@ -3,3 +3,6 @@ author: Max Grover
 logo: arm_logo.png
 execute:
   execute_notebooks: "off"
+parse:
+  myst_enable_extensions:
+    - html_image

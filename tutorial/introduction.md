@@ -1,6 +1,6 @@
 <img src="images/GitHub-logo.png" alt="Github Logo" width="600px">
 
-# An Introduction to Github - Contributing to an Open Source Project
+# An Introduction to Github
 
 * 02-28-2022 (Windows Users)
 * 03-01-2022 (Mac/Linux Users)
