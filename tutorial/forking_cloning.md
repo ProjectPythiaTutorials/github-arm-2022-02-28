@@ -59,7 +59,7 @@ You could, at this point, select one of the files in the repository and use GitH
 
 Now, open up a terminal on your local computer, and if desired, `cd` into a directory that you'd like to house whatever repos you clone. Type `git clone`, and then paste in the URL that you copied from GitHub (i.e., the **origin**):
 
-<img src="images/github_clone_url.png" alt="ForkPost">
+<img src="images/github_clone_url.png" alt="Github Clone URL">
 
 Then within your termainal, run:
 
@@ -67,7 +67,7 @@ Then within your termainal, run:
 git clone <url>
 ```
 
-in my case, that would look like:
+In my case, that would look like:
 
 ```bash
 git clone https://github.com/mgrover1/Aerosol-Mentors-Processing-Routines.git
