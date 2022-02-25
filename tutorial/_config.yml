@@ -1,6 +1,6 @@
 title: ARM Github Tutorial
 author: Max Grover
-logo: arm_logo.png
+logo: images/arm_logo.png
 execute:
   execute_notebooks: "off"
 parse:
