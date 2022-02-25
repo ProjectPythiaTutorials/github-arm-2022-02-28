@@ -7,6 +7,13 @@
 1. Creating a Branch and Making Changes
 1. Submit Your First Pull Request
 
+## Prerequisites
+
+| Concepts                                      | Importance  | Notes |
+| --------------------------------------------- | ----------- | ----- |
+| [Introduction to Github](introduction)        | Necessary   |       |
+| [Cloing and Forking a Repo](forking_cloning)  | Necessary   |       |
+
 ## What is a Pull Request?
 
 A Pull Request (PR) is a formal mechanism for requesting that changes

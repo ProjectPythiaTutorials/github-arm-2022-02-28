@@ -7,10 +7,10 @@
 
 ## Prerequisites
 
-| Concepts              | Importance | Notes                        |
-| --------------------- | ---------- | ---------------------------- |
-| GitHub Introduction   | Necessary  | GitHub user account required |
-| Command-line shell    | Helpful    |                              |
+| Concepts                           | Importance | Notes                        |
+| ---------------------------------- | ---------- | ---------------------------- |
+| [Intro to Github](introduction)    | Necessary  | GitHub user account required |
+| Command-line shell                 | Helpful    |                              |
 
 - **Time to learn**: 30 minutes
 
