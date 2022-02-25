@@ -1,6 +1,9 @@
 <img src="images/GitHub-logo.png" alt="Github Logo" width="600px">
 
-# What is GitHub?
+# An Introduction to Github - Contributing to an Open Source Project
+
+* 02-28-2022 (Windows Users)
+* 03-01-2022 (Mac/Linux Users)
 
 ## Overview:
 
@@ -13,11 +16,11 @@
 
 ## Prerequisites
 
-| Concepts | Importance | Notes |
-| -------- | ---------- | ----- |
-| None     |            |       |
-
-- **Time to learn**: 15 minutes
+If on a **Windows** Machine, make sure to install [Git for Windows](https://gitforwindows.org/)
+* [Download Page](https://github.com/git-for-windows/git/releases/tag/v2.35.1.windows.2)
+    * Choose the appropriate download based on your operating system
+        * [32 Bit](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-32-bit.exe)
+        * [64 Bit](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)
 
 ---
 
@@ -84,24 +87,24 @@ Linus Torvalds, the original developer (and still the lead maintainer) of **Linu
 
 ```{admonition} Stay tuned!
 :class: tip
-We will discuss version control and the use of **Git** via the command line later in this series.
+We will discuss version control and the use of **Git** via the command line later in this session!
 ```
 
 ## FOSS + VCS + Web = GitHub
 
 Perhaps the most popular web-based platform that uses Git for FOSS VCS is [GitHub](https://github.com). GitHub hosts all of the Python software packages that Project Pythia covers as code repositories (we'll use the term <i>Git repo</i>, or more generally just <i>repo</i> henceforth to represent a GitHub code repository).
 
-For example, here is a screenshot from [Xarray's GitHub](https://github.com/pydata/xarray) Git repo:
+For example, here is a screenshot from [ARM-Development's Aerosol-Mentors-Processing-Routines Repo](https://github.com/ARM-Development/Aerosol-Mentors-Processing-Routines) Git repo:
 
-<img src="../../images/XarrayGithub.png" alt="Xarray GitHub">
+<img src="images/aerosol-mentors-repo-screenshot.png" alt="ARM GitHub">
 
 ```{note}
-The above screenshot is from <i>one moment in time</i>. When you visit the Xarray GitHub link above, it will no doubt look different!
+The above screenshot is from <i>one moment in time</i>. When you visit the Aerosol-Mentors-Processing-Routines link above, it will no doubt look different!
 ```
 
 ## Register for a free GitHub account
 
-While one can freely browse GitHub repositories such as Xarray anonymously, it's necessary to log into a unique (and free) user account in order to take advantage of GitHub's full capabilities, such as:
+While one can freely browse GitHub repositories such as Aerosol-Mentors-Processing-Routines anonymously, it's necessary to log into a unique (and free) user account in order to take advantage of GitHub's full capabilities, such as:
 
 1. Opening issues and pull requests
 1. Participate in discussions
@@ -111,7 +114,7 @@ Your next step (if you haven't already) should be to register for your free GitH
 
 To do so, simply point your browser to the [GitHub sign-up page](https://github.com/join):
 
-<img src="../../images/GitHubJoin.png" alt="GitHub Signup">
+<img src="images/GitHubJoin.png" alt="GitHub Signup">
 
 While GitHub offers paid options, a free account is typically all that is needed!
 
@@ -125,7 +128,7 @@ While GitHub offers paid options, a free account is typically all that is needed
 
 ### What's Next?
 
-In the next lesson, we will explore some GitHub repositories.
+In the next lesson, we will explore **Forking and Cloning** a Github Repository
 
 ## References
 
