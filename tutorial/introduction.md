@@ -1,4 +1,4 @@
-<img src="../../images/GitHub-logo.png" alt="Github Logo" width="600px">
+<img src="images/GitHub-logo.png" alt="Github Logo" width="600px">
 
 # What is GitHub?
 
