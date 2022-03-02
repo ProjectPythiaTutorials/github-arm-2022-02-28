@@ -12,7 +12,7 @@
 | Concepts                                      | Importance  | Notes |
 | --------------------------------------------- | ----------- | ----- |
 | [Introduction to Github](introduction)        | Necessary   |       |
-| [Cloing and Forking a Repo](forking_cloning)  | Necessary   |       |
+| [Cloning and Forking a Repo](forking_cloning)  | Necessary  |       |
 
 - **Time to learn**: 30 minutes
 
